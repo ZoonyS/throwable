@@ -4,7 +4,7 @@
   "package": "zoony.throwable.entities.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "LivingEntityMixin"
+    "EntityMixin"
   ],
   "client": [
   ],

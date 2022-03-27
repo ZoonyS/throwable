@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "zoony.throwable.entities.common.ThrowableEntities"
+      "zoony.throwable.entities.common.Throwable"
     ]
   },
   "mixins": [
